@@ -2,7 +2,7 @@
 
 🔵<b>I'm Markus, SysAdmin currently working for [Blue Media Services](https://web.getblue.io/) as IT Specialist.</br>
 💻 Web Development:</br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=2400&color=1FF6F7&multiline=true&lines=Currently+studying+ReactJS)](https://git.io/typing-svg)</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=2400&color=1FF6F7&multiline=true&lines=Currently+learning+ReactJS)](https://git.io/typing-svg)</br>
 📍 Living in Marbella, Spain</b>
 
 * * *
