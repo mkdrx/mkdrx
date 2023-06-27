@@ -5,7 +5,7 @@ Currently working for [Blue Media Services](https://web.getblue.io/en/home-eng/)
 
 * 🌍  I'm based in Marbella, Spain
 * ✉️  You can contact me at [markusdrx@gmail.com](mailto:markusdrx@gmail.com)
-* 🧠  I'm learning ReactJS, TypeScript and Tailwind CSS
+* 🧠  I'm learning ReactJS and Next.js
 
 ### Skills
 
