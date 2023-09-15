@@ -1,11 +1,11 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=26&pause=1000&width=435&lines=Hi%2C+I'm+Markus)](https://git.io/typing-svg)
 ==============================================================================================================================
 
-Currently working for [Blue Media Services](https://web.getblue.io/en/home-eng/) as IT Specialist while learning Web Development.
+Currently working for [Blue Media Services](https://web.getblue.io/en/home-eng/) as IT Specialist while learning web dev.
 
 * 🌍  I'm based in Marbella, Spain
 * ✉️  You can contact me at [markusdrx@gmail.com](mailto:markusdrx@gmail.com)
-* 🧠  I'm learning ReactJS and Next.js
+* 🧠  I'm currently enhancing my JavaScript, React.js and Next.js skills
 
 ### Skills
 
