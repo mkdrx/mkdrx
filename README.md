@@ -9,7 +9,7 @@ Dedicated tech enthusiast currently working at Blue Media Services as IT Special
 * 🌍  I'm based in Marbella, Spain
 * 🖥️  See my portfolio at [mkdrx.vercel.app](http://https://mkdrx.vercel.app/)
 * ✉️  You can contact me at [markusdrx@gmail.com](mailto:markusdrx@gmail.com)
-* 🧠  I'm learning JavaScript in depth, React and Next.js
+* 🧠  Currently focusing on: JavaScript ecosystem and the React stack
 
 ### Skills
 
