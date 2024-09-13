@@ -4,7 +4,7 @@
 JavaScript Developer - IT Specialist
 ------------------------------------
 
-Dedicated tech enthusiast currently working at Blue Media Services as IT Specialist.
+Dedicated tech enthusiast currently working at Accenture as Data Architecture Sr Analyst.
 
 * 🌍  I'm based in Marbella, Spain
 * 🖥️  See my portfolio at [mkdrx.vercel.app](http://https://mkdrx.vercel.app/)
