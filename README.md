@@ -1,13 +1,13 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=26&pause=1000&width=435&lines=Hi%2C+I'm+Markus)](https://git.io/typing-svg)
 ==============================================================================================================================
 
-JavaScript Developer - IT Specialist
+JavaScript Developer - IT Project Manager
 ------------------------------------
 
-Dedicated tech enthusiast currently working at Accenture as Data Architecture Sr Analyst.
+Currently working at Blue Marketing as IT PM.
 
 * 🌍  I'm based in Marbella, Spain
-* 🖥️  See my portfolio at [mkdrx.vercel.app](http://https://mkdrx.vercel.app/)
+* 🖥️  See my portfolio at [mkdrx.vercel.app](https://mkdrx.vercel.app/)
 * ✉️  You can contact me at [markusdrx@gmail.com](mailto:markusdrx@gmail.com)
 * 🧠  Currently focusing on: JavaScript ecosystem and the React stack
 
